@@ -1,0 +1,194 @@
+<Selections><_PERMID_>0</_PERMID_>
+<_MOD_>2023-01-17</_MOD_>
+<Name>Selections</Name>
+<Type>7428</Type>
+<Dirty>1</Dirty>
+<Owndata>0</Owndata>
+<TID>1</TID>
+<Size>4</Size>
+<_XName>Selections</_XName>
+<Allocinc>16</Allocinc>
+<Data><Style><_PERMID_>416</_PERMID_>
+<_MOD_>2023-01-17</_MOD_>
+<F_S_NAME>Extra Special Bitter</F_S_NAME>
+<F_S_CATEGORY>British Origin Ale Styles</F_S_CATEGORY>
+<F_S_GUIDE>BA 2022</F_S_GUIDE>
+<F_S_LETTER>0</F_S_LETTER>
+<F_S_NUMBER></F_S_NUMBER>
+<F_S_WINE_COLOR>-1</F_S_WINE_COLOR>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0460000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0600000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0100000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0160000</F_S_MAX_FG>
+<F_S_MIN_IBU>30.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>45.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.2000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.8000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>8.0000000</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>17.0000000</F_S_MAX_COLOR>
+<F_S_MIN_ABV>4.8000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>5.8000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Entries in this subcategory exhibit
+hop aroma and flavor attributes typical of traditional
+English hop varieties.
+When using these guidelines as the basis for
+evaluating entries at competitions, competition
+organizers may choose to create subcategories which
+reflect English and American hop character.</F_S_DESCRIPTION>
+<F_S_PROFILE>Color: Amber to deep copper
+Clarity: Chill haze is acceptable at low temperatures
+Perceived Malt Aroma &amp; Flavor: Medium to
+medium-high
+Perceived Hop Aroma &amp; Flavor: Medium to medium-
+high
+Perceived bitterness: Medium to medium-high
+Fermentation Characteristics: Low carbonation
+traditionally characterizes draft-cask versions, but in
+bottled versions, a slight increase in carbon dioxide
+content is acceptable. The overall impression is
+refreshing and thirst quenching. Fruity esters are
+acceptable. Diacetyl is usually absent in these beers
+but may be present at low levels.
+Body: Medium</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES></F_S_EXAMPLES>
+<F_S_WEB_LINK>https://brewersassociation.org</F_S_WEB_LINK>
+</Style>
+<Style><_PERMID_>413</_PERMID_>
+<_MOD_>2023-01-13</_MOD_>
+<F_S_NAME>New Zealand-Style Pale Ale</F_S_NAME>
+<F_S_CATEGORY>Other Origin Ale Stles</F_S_CATEGORY>
+<F_S_GUIDE>BA 2022</F_S_GUIDE>
+<F_S_LETTER>0</F_S_LETTER>
+<F_S_NUMBER></F_S_NUMBER>
+<F_S_WINE_COLOR>-1</F_S_WINE_COLOR>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0400000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0520000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0060000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0100000</F_S_MAX_FG>
+<F_S_MIN_IBU>15.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>40.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.2000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.8000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>3.0000000</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>9.0000000</F_S_MAX_COLOR>
+<F_S_MIN_ABV>4.0000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>6.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Additional notes: Overall impression is a well-
+integrated easy drinking, refreshing pale ale style
+with distinctive fruity hop aromas and flavors.
+Diacetyl is absent in these beers. DMS should not be
+present.</F_S_DESCRIPTION>
+<F_S_PROFILE>Color: Straw to medium amber
+Clarity: Any of yeast, chill, or hop haze may be
+present in at low levels but are not essential
+Perceived Malt Aroma &amp; Flavor: Very low to
+medium
+Perceived Hop Aroma &amp; Flavor: Medium to medium-
+high, exhibiting attributes including any of tropical
+fruit, passionfruit, stone fruit, cut grass, or diesel
+Perceived bitterness: Low to medium-high
+Fermentation Characteristics: Low to medium fruity
+esters are acceptable but not essential.
+Body: Medium-low to medium with a dry finish</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES></F_S_EXAMPLES>
+<F_S_WEB_LINK>https://brewersassociation.org</F_S_WEB_LINK>
+</Style>
+<Style><_PERMID_>414</_PERMID_>
+<_MOD_>2023-01-17</_MOD_>
+<F_S_NAME>Ordinary Bitter</F_S_NAME>
+<F_S_CATEGORY>Britis Origin Ale Styles</F_S_CATEGORY>
+<F_S_GUIDE>BA 2022</F_S_GUIDE>
+<F_S_LETTER>0</F_S_LETTER>
+<F_S_NUMBER></F_S_NUMBER>
+<F_S_WINE_COLOR>-1</F_S_WINE_COLOR>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0330000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0380000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0060000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0120000</F_S_MAX_FG>
+<F_S_MIN_IBU>20.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>35.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.2000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.8000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>5.0000000</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>12.0000000</F_S_MAX_COLOR>
+<F_S_MIN_ABV>3.0000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>4.2000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>When using these guidelines as the basis for
+evaluating entries at competitions, competition
+organizers may choose to create subcategories which
+reflect English and American hop character.</F_S_DESCRIPTION>
+<F_S_PROFILE>Color: Gold to copper-colored
+Clarity: Chill haze is allowable at cold temperatures
+Perceived Malt Aroma &amp; Flavor: Low to medium
+residual malt sweetness should be present
+Perceived Hop Aroma &amp; Flavor: Very low to
+medium-low
+Perceived bitterness: Medium
+Fermentation Characteristics: Mild carbonation
+traditionally characterizes draft-cask versions, but in
+bottled versions, a slight increase in carbon dioxide
+content is acceptable. Fruity esters are acceptable.
+Diacetyl is usually absent in these beers but may be
+present at low levels.
+Body: Low to medium</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES></F_S_EXAMPLES>
+<F_S_WEB_LINK>https://brewersassociation.org</F_S_WEB_LINK>
+</Style>
+<Style><_PERMID_>415</_PERMID_>
+<_MOD_>2023-01-17</_MOD_>
+<F_S_NAME>Special Bitter</F_S_NAME>
+<F_S_CATEGORY>British Origin Ale Styles</F_S_CATEGORY>
+<F_S_GUIDE>BA 2022</F_S_GUIDE>
+<F_S_LETTER>0</F_S_LETTER>
+<F_S_NUMBER></F_S_NUMBER>
+<F_S_WINE_COLOR>-1</F_S_WINE_COLOR>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0380000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0450000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0060000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0120000</F_S_MAX_FG>
+<F_S_MIN_IBU>28.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>40.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.2000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.8000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>6.0000000</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>14.0000000</F_S_MAX_COLOR>
+<F_S_MIN_ABV>4.2000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>4.8000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>When using these guidelines as the basis for
+evaluating entries at competitions, competition
+organizers may choose to create subcategories which
+reflect English and American hop character.</F_S_DESCRIPTION>
+<F_S_PROFILE>Color: Deep gold to deep copper
+Clarity: Chill haze is acceptable at low temperatures
+Perceived Malt Aroma &amp; Flavor: Medium residual
+malt sweetness should be present
+Perceived Hop Aroma &amp; Flavor: Very low to medium
+at the brewer&#39;s discretion
+Perceived bitterness: Medium and not harsh
+Fermentation Characteristics: Low carbonation
+traditionally characterizes draft-cask versions, but in
+bottled versions, a slight increase in carbon dioxide
+content is acceptable. Fruity esters are acceptable.
+Diacetyl is usually absent in these beers but may be
+present at low levels.
+Body: Medium</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES></F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+</Data>
+<_TExpanded>1</_TExpanded>
+<TExtra>0</TExtra>
+<TxLog>0</TxLog>
+<PermCount>0</PermCount>
+<TxCount>0</TxCount>
+<TxTable>0</TxTable>
+<TxPath></TxPath>
+</Selections>
