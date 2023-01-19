@@ -1,15 +1,344 @@
 <Selections><_PERMID_>0</_PERMID_>
-<_MOD_>2023-01-17</_MOD_>
+<_MOD_>2023-01-19</_MOD_>
 <Name>Selections</Name>
 <Type>7428</Type>
 <Dirty>1</Dirty>
 <Owndata>0</Owndata>
 <TID>1</TID>
-<Size>4</Size>
+<Size>21</Size>
 <_XName>Selections</_XName>
 <Allocinc>16</Allocinc>
-<Data><Style><_PERMID_>416</_PERMID_>
-<_MOD_>2023-01-17</_MOD_>
+<Data><Style><_PERMID_>433</_PERMID_>
+<_MOD_>2023-01-19</_MOD_>
+<F_S_NAME>British Style Imperial Stout</F_S_NAME>
+<F_S_CATEGORY>British Origin Ale Styles</F_S_CATEGORY>
+<F_S_GUIDE>BA 2022</F_S_GUIDE>
+<F_S_LETTER>0</F_S_LETTER>
+<F_S_NUMBER></F_S_NUMBER>
+<F_S_WINE_COLOR>-1</F_S_WINE_COLOR>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0800000</F_S_MIN_OG>
+<F_S_MAX_OG>1.1000000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0200000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0300000</F_S_MAX_FG>
+<F_S_MIN_IBU>45.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>65.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.2000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.8000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>20.0000000</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>35.0000000</F_S_MAX_COLOR>
+<F_S_MIN_ABV>7.0000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>12.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>This style was also originally called
+&lsquo;Russian Imperial Stout&rsquo;</F_S_DESCRIPTION>
+<F_S_PROFILE>Color: Ranging from dark copper typical of some
+historic examples, to very dark more typical of
+contemporary examples
+Clarity: Opaque in darker versions. When clarity is
+perceivable, chill haze is acceptable at low
+temperatures.
+Perceived Malt Aroma &amp; Flavor: Extremely rich
+malty flavor, often expressed as toffee or caramel,
+and may be accompanied by very low roasted malt
+astringency.
+Perceived Hop Aroma &amp; Flavor: Very low to
+medium, with floral, citrus or herbal qualities.
+Perceived bitterness: Medium and should not
+overwhelm the overall balance. The bitterness may
+be higher in darker versions while maintaining
+balance with sweet malt.
+Fermentation Characteristics: High alcohol content is
+evident. Fruity esters if present are medium to high.
+Diacetyl should not be present.
+Body: Full </F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES></F_S_EXAMPLES>
+<F_S_WEB_LINK>https://brewersassociation.org</F_S_WEB_LINK>
+</Style>
+<Style><_PERMID_>422</_PERMID_>
+<_MOD_>2023-01-18</_MOD_>
+<F_S_NAME>British Style Indian Pale Ale</F_S_NAME>
+<F_S_CATEGORY>British Origin Ale Styles</F_S_CATEGORY>
+<F_S_GUIDE>BA 2022</F_S_GUIDE>
+<F_S_LETTER>0</F_S_LETTER>
+<F_S_NUMBER></F_S_NUMBER>
+<F_S_WINE_COLOR>-1</F_S_WINE_COLOR>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0460000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0640000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0120000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0180000</F_S_MAX_FG>
+<F_S_MIN_IBU>35.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>63.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.2000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.8000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>6.0000000</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>14.0000000</F_S_MAX_COLOR>
+<F_S_MIN_ABV>4.5000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>7.1000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>A wide range of hop varieties may
+be used for bitterness or for approximating traditional English hop character. The use of water
+with high mineral content may result in a crisp, dry
+beer rather than a malt-accentuated version.</F_S_DESCRIPTION>
+<F_S_PROFILE>Color: Gold to copper
+Clarity: Chill haze is acceptable at low temperatures
+Perceived Malt Aroma &amp; Flavor: Medium malt flavor
+should be present
+Perceived Hop Aroma &amp; Flavor: Medium to high,
+expressed as floral, herbal, earthy, stone fruit or
+other attributes from high hopping rates.
+Perceived bitterness: Medium to high
+Fermentation Characteristics: Fruity esters are
+medium to high. Traditional interpretations are
+characterized by medium to medium-high alcohol
+content. The use of water with high mineral content
+results in a crisp, dry beer with a subtle and balanced
+character of sulfur compounds. Diacetyl can be
+absent or may be present at very low levels.
+Body: Medium</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES></F_S_EXAMPLES>
+<F_S_WEB_LINK>https://brewersassociation.org</F_S_WEB_LINK>
+</Style>
+<Style><_PERMID_>428</_PERMID_>
+<_MOD_>2023-01-19</_MOD_>
+<F_S_NAME>Brown Porter</F_S_NAME>
+<F_S_CATEGORY>British Origin Ale Styles</F_S_CATEGORY>
+<F_S_GUIDE>BA 2022</F_S_GUIDE>
+<F_S_LETTER>0</F_S_LETTER>
+<F_S_NUMBER></F_S_NUMBER>
+<F_S_WINE_COLOR>-1</F_S_WINE_COLOR>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0400000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0500000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0060000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0140000</F_S_MAX_FG>
+<F_S_MIN_IBU>20.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>30.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.2000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.8000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>20.0000000</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>35.0000000</F_S_MAX_COLOR>
+<F_S_MIN_ABV>4.4000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>6.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION></F_S_DESCRIPTION>
+<F_S_PROFILE>Color: Dark brown to very dark. May have red tint.
+Clarity: Beer color may be too dark to perceive
+clarity. When clarity is perceivable, chill haze is
+acceptable at low temperatures.
+Perceived Malt Aroma &amp; Flavor: Low to medium
+malt sweetness. Caramel and chocolate attributes
+are acceptable. Strong roast barley or strong burnt or
+black malt character should not be present.
+Perceived Hop Aroma &amp; Flavor: Very low to medium
+Perceived bitterness: Medium
+Fermentation Characteristics: Fruity esters are
+acceptable. Diacetyl is usually absent in these beers
+but may be present at low levels.
+Body: Low to medium </F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES></F_S_EXAMPLES>
+<F_S_WEB_LINK>https://brewersassociation.org</F_S_WEB_LINK>
+</Style>
+<Style><_PERMID_>421</_PERMID_>
+<_MOD_>2023-01-18</_MOD_>
+<F_S_NAME>Classic English Style Pale Ale</F_S_NAME>
+<F_S_CATEGORY>British Origin Ale Styles</F_S_CATEGORY>
+<F_S_GUIDE>BA 2022</F_S_GUIDE>
+<F_S_LETTER>0</F_S_LETTER>
+<F_S_NUMBER></F_S_NUMBER>
+<F_S_WINE_COLOR>-1</F_S_WINE_COLOR>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0400000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0560000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0080000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0160000</F_S_MAX_FG>
+<F_S_MIN_IBU>20.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>40.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.2000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.8000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>5.0000000</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>12.0000000</F_S_MAX_COLOR>
+<F_S_MIN_ABV>4.4000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>5.3000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION></F_S_DESCRIPTION>
+<F_S_PROFILE>Color: Gold to copper
+Clarity: Chill haze is acceptable at low temperatures
+Perceived Malt Aroma &amp; Flavor: Low to medium
+malt aroma and flavor is present. Low caramel
+character is allowable.
+Perceived Hop Aroma &amp; Flavor: Medium-low to
+medium-high, expressed as floral, herbal, earthy,
+stone fruit or other attributes.
+Perceived bitterness: Medium-low to medium-high
+Fermentation Characteristics: Fruity esters are
+medium to medium-high. Diacetyl is usually absent in
+these beers but may be present at very low levels.
+Body: Medium</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES></F_S_EXAMPLES>
+<F_S_WEB_LINK>https://brewersassociation.org</F_S_WEB_LINK>
+</Style>
+<Style><_PERMID_>427</_PERMID_>
+<_MOD_>2023-01-19</_MOD_>
+<F_S_NAME>English Style Brown Ale</F_S_NAME>
+<F_S_CATEGORY>British Origin Ale Styles</F_S_CATEGORY>
+<F_S_GUIDE>BA 2022</F_S_GUIDE>
+<F_S_LETTER>0</F_S_LETTER>
+<F_S_NUMBER></F_S_NUMBER>
+<F_S_WINE_COLOR>-1</F_S_WINE_COLOR>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0400000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0500000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0080000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0140000</F_S_MAX_FG>
+<F_S_MIN_IBU>12.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>25.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.2000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.8000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>12.0000000</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>24.0000000</F_S_MAX_COLOR>
+<F_S_MIN_ABV>4.2000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>6.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION></F_S_DESCRIPTION>
+<F_S_PROFILE>Color: Copper to dark brown
+Clarity: Chill haze is acceptable at low temperatures
+Perceived Malt Aroma &amp; Flavor: Roast malt may
+contribute to a biscuit or toasted aroma profile.
+Roast malt may contribute to the flavor profile. Malt
+profile can range from dry to sweet.
+Perceived Hop Aroma &amp; Flavor: Very low
+Perceived bitterness: Very low to low
+Fermentation Characteristics: Low to medium-low
+level fruity esters are appropriate. Diacetyl is usually
+absent in these beers but may be present at very low
+levels.
+Body: Medium</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES></F_S_EXAMPLES>
+<F_S_WEB_LINK>https://brewersassociation.org</F_S_WEB_LINK>
+</Style>
+<Style><_PERMID_>426</_PERMID_>
+<_MOD_>2023-01-19</_MOD_>
+<F_S_NAME>English Style Dark Mild Ale</F_S_NAME>
+<F_S_CATEGORY>British Origin Ale Styles</F_S_CATEGORY>
+<F_S_GUIDE>BA 2022</F_S_GUIDE>
+<F_S_LETTER>0</F_S_LETTER>
+<F_S_NUMBER></F_S_NUMBER>
+<F_S_WINE_COLOR>-1</F_S_WINE_COLOR>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0300000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0360000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0040000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0080000</F_S_MAX_FG>
+<F_S_MIN_IBU>10.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>24.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.2000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.8000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>17.0000000</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>34.0000000</F_S_MAX_COLOR>
+<F_S_MIN_ABV>3.4000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>4.4000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION></F_S_DESCRIPTION>
+<F_S_PROFILE>Color: Reddish-brown to very dark
+Clarity: Chill haze is acceptable at low temperatures
+Perceived Malt Aroma &amp; Flavor: Malt attributes such
+as caramel, licorice, roast or others may be present
+in aroma and flavor.
+Perceived Hop Aroma &amp; Flavor: Very low
+Perceived bitterness: Very low to low
+Fermentation Characteristics: Diacetyl is usually
+absent in these beers but may be present at very low
+levels. Fruity esters are very low to medium-low.
+Body: Medium-low to medium</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES></F_S_EXAMPLES>
+<F_S_WEB_LINK>https://brewersassociation.org</F_S_WEB_LINK>
+</Style>
+<Style><_PERMID_>425</_PERMID_>
+<_MOD_>2023-01-19</_MOD_>
+<F_S_NAME>English Style Pale Mild Ale</F_S_NAME>
+<F_S_CATEGORY>British Origin Ale Styles</F_S_CATEGORY>
+<F_S_GUIDE>BA 2022</F_S_GUIDE>
+<F_S_LETTER>0</F_S_LETTER>
+<F_S_NUMBER></F_S_NUMBER>
+<F_S_WINE_COLOR>-1</F_S_WINE_COLOR>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0300000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0360000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0040000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0080000</F_S_MAX_FG>
+<F_S_MIN_IBU>10.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>20.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.2000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.8000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>6.0000000</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>9.0000000</F_S_MAX_COLOR>
+<F_S_MIN_ABV>3.4000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>4.4000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION></F_S_DESCRIPTION>
+<F_S_PROFILE>Color: Light amber to medium amber
+Clarity: Chill haze is acceptable at low temperatures
+Perceived Malt Aroma &amp; Flavor: Malt flavor and
+aroma dominate the flavor profile
+Perceived Hop Aroma &amp; Flavor: Very low to low
+Perceived bitterness: Very low to low
+Fermentation Characteristics: Diacetyl is usually
+absent in these beers but may be present at very low
+levels. Fruity esters are very low to medium-low.
+Body: Low to medium-low</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES></F_S_EXAMPLES>
+<F_S_WEB_LINK>https://brewersassociation.org</F_S_WEB_LINK>
+</Style>
+<Style><_PERMID_>420</_PERMID_>
+<_MOD_>2023-01-18</_MOD_>
+<F_S_NAME>English Style Summer Ale</F_S_NAME>
+<F_S_CATEGORY>British Origin Ale Styles</F_S_CATEGORY>
+<F_S_GUIDE>BA 2022</F_S_GUIDE>
+<F_S_LETTER>0</F_S_LETTER>
+<F_S_NUMBER></F_S_NUMBER>
+<F_S_WINE_COLOR>-1</F_S_WINE_COLOR>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0360000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0500000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0060000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0120000</F_S_MAX_FG>
+<F_S_MIN_IBU>20.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>30.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.2000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.8000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>3.0000000</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>6.0000000</F_S_MAX_COLOR>
+<F_S_MIN_ABV>3.7000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>5.1000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>The overall impression is
+refreshing and thirst quenching </F_S_DESCRIPTION>
+<F_S_PROFILE>Color: Straw to gold
+Clarity: Chill haze is acceptable at low temperatures
+Perceived Malt Aroma &amp; Flavor: Residual malt
+sweetness is low to medium. Torrified or malted
+wheat is often used in quantities of 25 percent or
+less. Malt attributes such as biscuity or low levels of
+caramel are present.
+Perceived Hop Aroma &amp; Flavor: Low to medium,
+expressed as floral, herbal, earthy, stone fruit, citrus
+or other attributes. Hop flavor should not be
+assertive and should be well balanced with malt
+character.
+Perceived bitterness: Medium-low to medium
+Fermentation Characteristics: Mild carbonation
+traditionally characterizes draft-cask versions, but in
+bottled versions, a slight increase in carbon dioxide
+content is acceptable. Fruity esters are low to
+medium. Diacetyl and DMS should not be present.
+Body: Low to medium-low.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES></F_S_EXAMPLES>
+<F_S_WEB_LINK>https://brewersassociation.org</F_S_WEB_LINK>
+</Style>
+<Style><_PERMID_>416</_PERMID_>
+<_MOD_>2023-01-18</_MOD_>
 <F_S_NAME>Extra Special Bitter</F_S_NAME>
 <F_S_CATEGORY>British Origin Ale Styles</F_S_CATEGORY>
 <F_S_GUIDE>BA 2022</F_S_GUIDE>
@@ -97,10 +426,113 @@ Body: Medium-low to medium with a dry finish</F_S_PROFILE>
 <F_S_EXAMPLES></F_S_EXAMPLES>
 <F_S_WEB_LINK>https://brewersassociation.org</F_S_WEB_LINK>
 </Style>
+<Style><_PERMID_>431</_PERMID_>
+<_MOD_>2023-01-19</_MOD_>
+<F_S_NAME>Oatmeal Stout</F_S_NAME>
+<F_S_CATEGORY>British Origin Ale Styles</F_S_CATEGORY>
+<F_S_GUIDE>BA 2022</F_S_GUIDE>
+<F_S_LETTER>0</F_S_LETTER>
+<F_S_NUMBER></F_S_NUMBER>
+<F_S_WINE_COLOR>-1</F_S_WINE_COLOR>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0380000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0560000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0080000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0200000</F_S_MAX_FG>
+<F_S_MIN_IBU>20.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>40.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.2000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.8000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>20.0000000</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>100.0000000</F_S_MAX_COLOR>
+<F_S_MIN_ABV>3.8000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>6.1000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION></F_S_DESCRIPTION>
+<F_S_PROFILE>Color: Dark brown to black
+Clarity: Beer color may be too dark to perceive.
+When clarity is perceivable, chill haze is acceptable at
+low temperatures.
+Perceived Malt Aroma &amp; Flavor: Coffee, caramel,
+roasted malt, or chocolate aromas should be
+prominent. Roasted malt character of caramel or
+chocolate should be smooth without bitterness.
+Perceived Hop Aroma &amp; Flavor: Optional, but if
+present should not upset the overall balance.
+Perceived bitterness: Medium
+Fermentation Characteristics: Oatmeal is used in the
+grist, resulting in a pleasant, full flavor without being
+grainy. Fruity esters are not present to very low.
+Diacetyl is usually absent in these beers but may be
+present at very low levels.
+Body: Full with an often-silky mouthfeel </F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES></F_S_EXAMPLES>
+<F_S_WEB_LINK>https://brewersassociation.org</F_S_WEB_LINK>
+</Style>
+<Style><_PERMID_>424</_PERMID_>
+<_MOD_>2023-01-19</_MOD_>
+<F_S_NAME>Old Ale</F_S_NAME>
+<F_S_CATEGORY>British Origin Ale Styles</F_S_CATEGORY>
+<F_S_GUIDE>BA 2022</F_S_GUIDE>
+<F_S_LETTER>0</F_S_LETTER>
+<F_S_NUMBER></F_S_NUMBER>
+<F_S_WINE_COLOR>-1</F_S_WINE_COLOR>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0580000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0880000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0140000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0300000</F_S_MAX_FG>
+<F_S_MIN_IBU>30.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>65.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.2000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.8000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>12.0000000</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>30.0000000</F_S_MAX_COLOR>
+<F_S_MIN_ABV>6.3000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>9.1000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Low level attributes typical of
+wood-aging such as vanillin are acceptable.
+Brettanomyces and acidity reflect historical
+character; low level attributes such as horsey, goaty,
+leathery, phenolic, etc. and acidity may be present
+and balanced with other flavors. Attributes arising
+from liquids previously aged in a barrel, such as
+bourbon or sherry, should not be present. Beers that
+exhibit such attributes are categorized as wood- and
+barrel-aged beers.
+When using these guidelines as the basis for
+evaluating entries at competitions, competition
+organizers may choose to split this category into
+subcategories which reflect strong and very strong
+versions, or historic and modern versions.</F_S_DESCRIPTION>
+<F_S_PROFILE>Color: Copper-red to very dark
+Clarity: Chill haze is acceptable at low temperatures
+Perceived Malt Aroma &amp; Flavor: Fruity esters can
+enhance and complement the malt aroma and flavor
+profile. Old Ales have malt and sometimes caramel
+sweetness.
+Perceived Hop Aroma &amp; Flavor: Very low to medium
+Perceived bitterness: Present but minimal, and
+balanced with malt flavors.
+Fermentation Characteristics: Fruity esters can
+contribute to the character of these beers. Alcohol
+types can be varied and complex. A distinctive quality
+of Old Ales is that they undergo an aging process,
+often for years. Aging can occur on their yeast either
+in bulk storage or through conditioning in the bottle.
+This contributes to a rich, wine-like, and often sweet,
+oxidized character. Complex estery attributes may
+also emerge. Diacetyl is usually absent in these beers
+but may be present at very low levels.
+Body: Medium to full</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES></F_S_EXAMPLES>
+<F_S_WEB_LINK>https://brewersassociation.org</F_S_WEB_LINK>
+</Style>
 <Style><_PERMID_>414</_PERMID_>
-<_MOD_>2023-01-17</_MOD_>
+<_MOD_>2023-01-18</_MOD_>
 <F_S_NAME>Ordinary Bitter</F_S_NAME>
-<F_S_CATEGORY>Britis Origin Ale Styles</F_S_CATEGORY>
+<F_S_CATEGORY>British Origin Ale Styles</F_S_CATEGORY>
 <F_S_GUIDE>BA 2022</F_S_GUIDE>
 <F_S_LETTER>0</F_S_LETTER>
 <F_S_NUMBER></F_S_NUMBER>
@@ -136,6 +568,268 @@ content is acceptable. Fruity esters are acceptable.
 Diacetyl is usually absent in these beers but may be
 present at low levels.
 Body: Low to medium</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES></F_S_EXAMPLES>
+<F_S_WEB_LINK>https://brewersassociation.org</F_S_WEB_LINK>
+</Style>
+<Style><_PERMID_>429</_PERMID_>
+<_MOD_>2023-01-19</_MOD_>
+<F_S_NAME>Robust Porter</F_S_NAME>
+<F_S_CATEGORY>British Origin Ale Styles</F_S_CATEGORY>
+<F_S_GUIDE>BA 2022</F_S_GUIDE>
+<F_S_LETTER>0</F_S_LETTER>
+<F_S_NUMBER></F_S_NUMBER>
+<F_S_WINE_COLOR>-1</F_S_WINE_COLOR>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0450000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0600000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0080000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0160000</F_S_MAX_FG>
+<F_S_MIN_IBU>25.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>40.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.2000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.8000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>30.0000000</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>100.0000000</F_S_MAX_COLOR>
+<F_S_MIN_ABV>5.1000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>6.6000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION></F_S_DESCRIPTION>
+<F_S_PROFILE>Color: Very dark brown to black
+Clarity: Opaque
+Perceived Malt Aroma &amp; Flavor: Medium to
+medium-high. Malty sweetness, roast malt, cocoa
+and caramel should be in harmony with bitterness
+from dark malts.
+Perceived Hop Aroma &amp; Flavor: Very low to medium
+Perceived bitterness: Medium to high
+Fermentation Characteristics: Fruity esters should be
+present and balanced with all other characters.
+Diacetyl should not be present.
+Body: Medium to full </F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES></F_S_EXAMPLES>
+<F_S_WEB_LINK>https://brewersassociation.org</F_S_WEB_LINK>
+</Style>
+<Style><_PERMID_>432</_PERMID_>
+<_MOD_>2023-01-19</_MOD_>
+<F_S_NAME>Scotch Ale or Wee Heavy</F_S_NAME>
+<F_S_CATEGORY>British Origin Ale Styles</F_S_CATEGORY>
+<F_S_GUIDE>BA 2022</F_S_GUIDE>
+<F_S_LETTER>0</F_S_LETTER>
+<F_S_NUMBER></F_S_NUMBER>
+<F_S_WINE_COLOR>-1</F_S_WINE_COLOR>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0720000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0850000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0160000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0280000</F_S_MAX_FG>
+<F_S_MIN_IBU>25.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>35.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.2000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.8000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>15.0000000</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>30.0000000</F_S_MAX_COLOR>
+<F_S_MIN_ABV>6.6000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>8.5000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Pleasant, low-level oxidation is
+acceptable in Scotch Ales. Examples exhibiting more
+prevalent oxidation are categorized as Aged Beer.
+While there are conflicting theories as to whether
+traditional Scotch Ales exhibited peat smoke
+character, the current marketplace offers many
+examples with peat smoke character present at low
+to medium levels. Peat smoke attributes may be
+absent or present at low to medium levels. Versions
+exhibiting higher levels of smoke character are
+categorized as Smoke Beer. When using these
+guidelines as the basis for evaluating entries at
+competitions, competition organizers may create
+subcategories which reflect groups of entries based
+on presence or absence of peat smoke-derived
+attributes.</F_S_DESCRIPTION>
+<F_S_PROFILE>Color: Light reddish-brown to very dark
+Clarity: Chill haze is acceptable at low temperatures
+Perceived Malt Aroma &amp; Flavor: Scotch Ales are
+aggressively malty with a rich and dominant sweet
+malt aroma and flavor. A caramel character is often
+part of the profile. Dark roasted malt flavors may be
+present at low levels.
+Perceived Hop Aroma &amp; Flavor: Not present to very
+low
+Perceived bitterness: Not present to very low
+Fermentation Characteristics: Fruity esters, if
+present, are generally at low levels. Diacetyl is
+usually absent in these beers but may be present at
+low levels.
+Body: Full </F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES></F_S_EXAMPLES>
+<F_S_WEB_LINK>https://brewersassociation.org</F_S_WEB_LINK>
+</Style>
+<Style><_PERMID_>419</_PERMID_>
+<_MOD_>2023-01-18</_MOD_>
+<F_S_NAME>Scottish Style Export Ale</F_S_NAME>
+<F_S_CATEGORY>British Origin Ale Styles</F_S_CATEGORY>
+<F_S_GUIDE>BA 2022</F_S_GUIDE>
+<F_S_LETTER>0</F_S_LETTER>
+<F_S_NUMBER></F_S_NUMBER>
+<F_S_WINE_COLOR>-1</F_S_WINE_COLOR>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0400000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0500000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0100000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0180000</F_S_MAX_FG>
+<F_S_MIN_IBU>15.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>25.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.2000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.8000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>9.0000000</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>19.0000000</F_S_MAX_COLOR>
+<F_S_MIN_ABV>4.1000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>5.3000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>These beers differ significantly
+from Scotch Ale, especially regarding original gravity,
+alcohol content, and malt attributes. While there are
+conflicting theories as to whether traditional Scottish
+Export Ale exhibited peat smoke character, the
+current marketplace offers many examples with peat
+smoke character present at low to medium-low
+levels. Peat smoke attributes may be absent or
+present at low to medium-low levels. Versions
+exhibiting higher levels of smoke character are
+categorized as Smoke Beer.
+When using these guidelines as the basis for
+evaluating entries at competitions, competition
+organizers may create subcategories which reflect
+groups of entries based on presence or absence of
+peat smoke-derived attributes.</F_S_DESCRIPTION>
+<F_S_PROFILE>Color: Medium amber to dark chestnut brown
+Clarity: Chill haze is acceptable at low temperatures
+Perceived Malt Aroma &amp; Flavor: Sweet malt and
+caramel aromas and flavors define the character of a
+Scottish Export
+Perceived Hop Aroma &amp; Flavor: Should not be
+present
+Perceived bitterness: Low to medium
+Fermentation Characteristics: Fruity esters, if
+present, are low. Yeast attributes such as diacetyl
+and sulfur are acceptable at very low levels. Bottled
+versions may contain higher amounts of carbon
+dioxide than is typical for lightly carbonated draft
+versions.
+Body: Medium</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES></F_S_EXAMPLES>
+<F_S_WEB_LINK>https://brewersassociation.org</F_S_WEB_LINK>
+</Style>
+<Style><_PERMID_>418</_PERMID_>
+<_MOD_>2023-01-18</_MOD_>
+<F_S_NAME>Scottish Style Heavy Ale</F_S_NAME>
+<F_S_CATEGORY>British Origin Ale Styles</F_S_CATEGORY>
+<F_S_GUIDE>BA 2022</F_S_GUIDE>
+<F_S_LETTER>0</F_S_LETTER>
+<F_S_NUMBER></F_S_NUMBER>
+<F_S_WINE_COLOR>-1</F_S_WINE_COLOR>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0350000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0400000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0100000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0140000</F_S_MAX_FG>
+<F_S_MIN_IBU>12.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>20.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.2000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.8000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>8.0000000</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>30.0000000</F_S_MAX_COLOR>
+<F_S_MIN_ABV>3.5000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>4.1000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>These beers differ significantly
+from Scotch Ale, especially regarding original gravity,
+alcohol content, and malt attributes. While there are
+conflicting theories as to whether traditional Scottish
+Heavy Ale exhibited peat smoke character, the
+current marketplace offers many examples with peat
+smoke character present at low to medium-low
+levels. Peat smoke attributes may be absent or
+present at low to medium-low levels. Versions
+exhibiting higher levels of smoke character are
+categorized as Smoke Beer.
+When using these guidelines as the basis for
+evaluating entries at competitions, competition
+organizers may create subcategories which reflect
+groups of entries based on presence or absence of
+peat smoke-derived attributes.</F_S_DESCRIPTION>
+<F_S_PROFILE>Color: Amber to dark brown
+Clarity: Chill haze is acceptable at low temperatures
+Perceived Malt Aroma &amp; Flavor: Malty, caramel
+aroma is present. The style exhibits a medium degree
+of sweet malt and caramel. The overall impression is
+smooth and balanced.
+Perceived Hop Aroma &amp; Flavor: Should not be
+present
+Perceived bitterness: Perceptible but low
+Fermentation Characteristics: Yeast attributes such
+as diacetyl and sulfur are acceptable at very low
+levels. Bottled versions may contain higher amounts
+of carbon dioxide than is typical for lightly
+carbonated draft versions. Fruity esters, if present,
+are low.
+Body: Medium with a soft chewy character</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES></F_S_EXAMPLES>
+<F_S_WEB_LINK>https://brewersassociation.org</F_S_WEB_LINK>
+</Style>
+<Style><_PERMID_>417</_PERMID_>
+<_MOD_>2023-01-18</_MOD_>
+<F_S_NAME>Scottish Style Light Ale</F_S_NAME>
+<F_S_CATEGORY>British Origin Ale Styles</F_S_CATEGORY>
+<F_S_GUIDE>BA 2022</F_S_GUIDE>
+<F_S_LETTER>0</F_S_LETTER>
+<F_S_NUMBER></F_S_NUMBER>
+<F_S_WINE_COLOR>-1</F_S_WINE_COLOR>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0300000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0350000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0060000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0100000</F_S_MAX_FG>
+<F_S_MIN_IBU>9.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>20.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.2000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.8000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>6.0000000</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>15.0000000</F_S_MAX_COLOR>
+<F_S_MIN_ABV>2.8000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>3.5000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>These beers differ significantly
+from Scotch Ale, especially regarding original gravity,
+alcohol content, and malt attributes. While there are
+conflicting theories as to whether traditional Scottish
+Light Ale exhibited peat smoke character, the current
+marketplace offers many examples with peat smoke
+character present at low to medium-low levels. Peat
+smoke attributes may be absent or present at low to
+medium-low levels. Versions exhibiting higher levels
+of smoke character are categorized as Smoke Beer.
+When using these guidelines as the basis for
+evaluating entries at competitions, competition
+organizers may create subcategories which reflect
+groups of entries based on presence or absence of
+peat smoke-derived attributes.</F_S_DESCRIPTION>
+<F_S_PROFILE>Color: Gold to light brown
+Clarity: Chill haze is acceptable at low temperatures 
+Perceived Malt Aroma &amp; Flavor: Malty, caramel
+aroma may be present. A low to medium-low, soft
+and chewy caramel malt flavor should be present.
+Perceived Hop Aroma &amp; Flavor: Should not be
+present
+Perceived bitterness: Low
+Fermentation Characteristics: Yeast attributes such
+as diacetyl and sulfur are acceptable at very low
+levels. Bottled versions may contain higher amounts
+of carbon dioxide than is typical for lightly
+carbonated draft versions. Fruity esters, if present,
+are low.
+Body: Low</F_S_PROFILE>
 <F_S_INGREDIENTS></F_S_INGREDIENTS>
 <F_S_EXAMPLES></F_S_EXAMPLES>
 <F_S_WEB_LINK>https://brewersassociation.org</F_S_WEB_LINK>
@@ -182,6 +876,94 @@ Body: Medium</F_S_PROFILE>
 <F_S_INGREDIENTS></F_S_INGREDIENTS>
 <F_S_EXAMPLES></F_S_EXAMPLES>
 <F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_PERMID_>423</_PERMID_>
+<_MOD_>2023-01-19</_MOD_>
+<F_S_NAME>Strong Ale</F_S_NAME>
+<F_S_CATEGORY>British Origin Ale Styles</F_S_CATEGORY>
+<F_S_GUIDE>BA 2022</F_S_GUIDE>
+<F_S_LETTER>0</F_S_LETTER>
+<F_S_NUMBER></F_S_NUMBER>
+<F_S_WINE_COLOR>-1</F_S_WINE_COLOR>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0600000</F_S_MIN_OG>
+<F_S_MAX_OG>1.1250000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0140000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0400000</F_S_MAX_FG>
+<F_S_MIN_IBU>30.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>65.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.2000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.8000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>8.0000000</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>21.0000000</F_S_MAX_COLOR>
+<F_S_MIN_ABV>7.0000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>11.3000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>When using these guidelines as the basis for
+evaluating entries at competitions, competition
+organizers may choose to split this category into
+subcategories which reflect strong and very strong
+versions.</F_S_DESCRIPTION>
+<F_S_PROFILE>Color: Amber to dark brown
+Clarity: Chill haze is acceptable at low temperatures
+Perceived Malt Aroma &amp; Flavor: Medium to high
+malt and caramel sweetness. Very low levels of roast
+malt may be present.
+Perceived Hop Aroma &amp; Flavor: Not present to very
+low
+Perceived bitterness: Present but minimal, and
+balanced with malt flavors.
+Fermentation Characteristics: Rich, often sweet and
+complex fruity ester attributes can contribute to the
+profile of Strong Ales. Alcohol types can be varied
+and complex. Diacetyl is usually absent in these
+beers but may be present at very low levels.
+Body: Medium to full </F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES></F_S_EXAMPLES>
+<F_S_WEB_LINK>https://brewersassociation.org</F_S_WEB_LINK>
+</Style>
+<Style><_PERMID_>430</_PERMID_>
+<_MOD_>2023-01-19</_MOD_>
+<F_S_NAME>Sweet Stout or Cream Stout</F_S_NAME>
+<F_S_CATEGORY>British Origin Ale Styles</F_S_CATEGORY>
+<F_S_GUIDE>BA 2022</F_S_GUIDE>
+<F_S_LETTER>0</F_S_LETTER>
+<F_S_NUMBER></F_S_NUMBER>
+<F_S_WINE_COLOR>-1</F_S_WINE_COLOR>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0450000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0560000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0120000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0200000</F_S_MAX_FG>
+<F_S_MIN_IBU>15.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>25.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.2000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.8000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>40.0000000</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>100.0000000</F_S_MAX_COLOR>
+<F_S_MIN_ABV>3.2000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>6.3000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION></F_S_DESCRIPTION>
+<F_S_PROFILE>Color: Black
+Clarity: Opaque
+Perceived Malt Aroma &amp; Flavor: Medium to
+medium-high. Malt sweetness, chocolate and
+caramel should contribute to the aroma and should
+dominate the flavor profile. Roast flavor may be
+present. Low to medium-low roasted malt-derived
+bitterness should be present.
+Perceived Hop Aroma &amp; Flavor: Should not be
+present
+Perceived bitterness: Low to medium-low and serves
+to balance and suppress some of the sweetness
+without contributing apparent flavor and aroma
+Fermentation Characteristics: Fruity esters, if
+present, are low. Diacetyl should not be present.
+Body: Full-bodied. Body can be increased with the
+addition of milk sugar (lactose).</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES></F_S_EXAMPLES>
+<F_S_WEB_LINK>https://brewersassociation.org</F_S_WEB_LINK>
 </Style>
 </Data>
 <_TExpanded>1</_TExpanded>
